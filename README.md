@@ -1,4 +1,4 @@
-Test workflow trigger
+echo "Trigger GitHub Actions workflow at $(date)" >> README.md
 
 # Multi User Todo Application using Django
 
